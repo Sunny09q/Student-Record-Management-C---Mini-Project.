@@ -2,5 +2,5 @@
 
 Teammates 
 1.Priyanshi Maheshwari
-2.Nibhriti Sarkar
+# 2.Nibhriti Sarkar
 3.Sandeep Reddy
